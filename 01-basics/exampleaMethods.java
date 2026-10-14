@@ -1,4 +1,4 @@
-public class Main {
+public class exampleaMethods {
     public static void userRating(String userName , int rate){
         System.out.println(userName+" numed users rate is: "+ rate);
     }
