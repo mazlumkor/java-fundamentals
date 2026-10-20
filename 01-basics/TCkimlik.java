@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class TCkimlik {
-    public static void main(String[] args) {
+    public static void kontrolEt() {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your TC number:");
         String tckimlik = input.next();
