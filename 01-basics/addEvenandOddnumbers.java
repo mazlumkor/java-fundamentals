@@ -13,13 +13,13 @@ public class addEvenandOddnumbers {
         int eventoplam=0;
         for (int i = number1; i<=number2 ; i++){
             if (i % 2==0){
-                addtoplam = addtoplam+ i;
+                addtoplam += i;
             }
             else {
-                eventoplam = eventoplam+i;
+                eventoplam += i;
             }
         }
-        System.out.println("The addition of odd numbers: "+ addtoplam);
-        System.out.println("The addition of even numbers: "+ eventoplam);
+        System.out.println("The addition of even numbers: "+ addtoplam);
+        System.out.println("The addition of odd numbers: "+ eventoplam);
     }
 }
