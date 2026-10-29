@@ -1,3 +1,5 @@
+package phonePackage;
+
 public class Phone {
     public String marka= "HTC";
     public String model = "Desire 620";
